@@ -1,0 +1,25 @@
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\BCAssinment4.exe
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\BCAssinment4.pdb
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\obj\x86\Debug\BCAssinment4.exe
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\obj\x86\Debug\BCAssinment4.pdb
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\image\ball.xnb
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\image\Sideways Bat.xnb
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\click.xnb
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\ding.xnb
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\fail.xnb
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\font\font.xnb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\image\ball.xnb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\image\Sideways Bat.xnb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\click.xnb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\ding.xnb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\fail.xnb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\font\font.xnb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\BCAssinment4.exe
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\BCAssinment4.pdb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\obj\x86\Debug\BCAssinment4.exe
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\obj\x86\Debug\BCAssinment4.pdb
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\gameOver.xnb

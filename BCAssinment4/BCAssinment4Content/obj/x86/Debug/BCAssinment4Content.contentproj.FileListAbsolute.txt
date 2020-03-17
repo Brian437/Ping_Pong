@@ -1,0 +1,2 @@
+C:\Users\Brian Chaves\Documents\School Stuff\12-3\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4Content\obj\x86\Debug\ResolveAssemblyReference.cache

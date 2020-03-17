@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>image\ball.png</Source>
+      <Name>image\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\image\ball.xnb</Output>
+      <Time>2012-11-23T22:25:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>image\Sideways Bat.png</Source>
+      <Name>image\Sideways Bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\image\Sideways Bat.xnb</Output>
+      <Time>2012-11-23T22:44:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\click.wav</Source>
+      <Name>sound\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\click.xnb</Output>
+      <Time>2012-11-24T22:38:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\ding.wav</Source>
+      <Name>sound\ding</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\ding.xnb</Output>
+      <Time>2012-11-24T22:38:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\fail.wav</Source>
+      <Name>sound\fail</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\fail.xnb</Output>
+      <Time>2012-11-27T08:29:45.147117-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\gameOver.wav</Source>
+      <Name>sound\gameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\sound\gameOver.xnb</Output>
+      <Time>2012-11-27T08:55:32.0501742-05:00</Time>
+    </Item>
+    <Item>
+      <Source>font\font.spritefont</Source>
+      <Name>font\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\font\font.xnb</Output>
+      <Time>2012-11-25T12:18:36-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4Content\</RootDirectory>
+      <LoggerRootDirectory>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\PROG2250 Game\BCAssinment4\BCAssinment4\BCAssinment4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-09-20T19:04:22.1965359-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

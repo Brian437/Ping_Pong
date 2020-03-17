@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCAssinment4", "BCAssinment4\BCAssinment4\BCAssinment4.csproj", "{3C86C1D4-92A2-407D-9E04-F38E9EBCCCA4}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BCAssinment4Content", "BCAssinment4\BCAssinment4Content\BCAssinment4Content.contentproj", "{EB9D49E9-B3BE-41B3-8F72-B7C7EF41310C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C86C1D4-92A2-407D-9E04-F38E9EBCCCA4}.Debug|x86.ActiveCfg = Debug|x86
+		{3C86C1D4-92A2-407D-9E04-F38E9EBCCCA4}.Debug|x86.Build.0 = Debug|x86
+		{3C86C1D4-92A2-407D-9E04-F38E9EBCCCA4}.Release|x86.ActiveCfg = Release|x86
+		{3C86C1D4-92A2-407D-9E04-F38E9EBCCCA4}.Release|x86.Build.0 = Release|x86
+		{EB9D49E9-B3BE-41B3-8F72-B7C7EF41310C}.Debug|x86.ActiveCfg = Debug|x86
+		{EB9D49E9-B3BE-41B3-8F72-B7C7EF41310C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
